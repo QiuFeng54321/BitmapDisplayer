@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BitmapDisplayer</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="i2b">图片转Base64</string>
+	<string name="t2b">文字转Base64</string>
+	<string name="lf">上一个文件夹</string>
+	<string name="cancel">取消</string>
+	<string name="b2i">Base64转图片</string>
+	<string name="b2t">Base64转文字</string>
+	<string name="about">作者:秋枫
+		COPYRIGHT 2018
+		ALL RIGHTS RESERVED</string>
+</resources>
